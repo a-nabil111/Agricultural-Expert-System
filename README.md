@@ -1,7 +1,3 @@
-# Agricultural-Expert-System
-A domain-specific question-answering system for Egyptian farmers built on a manually curated knowledge base covering 90+ crops, enhanced with a local LLM (Aya) for natural language understanding.
-
-
 # Agricultural Expert System with LLM Enhancement
 
 A domain-specific question-answering system designed to assist Egyptian farmers with crop management, disease diagnosis, and agricultural guidance — built as part of a graduation project.
